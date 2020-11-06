@@ -1,16 +1,4 @@
 /* Tag selector to select the 'body' element */
- body{
-     
-      }
-      div{
-       
-      }
-      #main-header{
-        
-      }
-      .perspective-questions{
-        font-style: italic;
-      }
 
 body {
   /* Your code here! */ background-color:#00b3e6;  
@@ -33,5 +21,5 @@ div {
 
 /* Class selector to select elements containing the class 'perspective-questions' */
 .perspective-questions {
-  /* Your code here! */
+  /* Your code here! */ font-style: italic;
 }
